@@ -578,7 +578,7 @@ textarea {
   user-select: none;
 }
 .blog_card img {
-  width: 100%;
+  width:100%;
   position: relative;
   transition: 0.3s ease;
 }
