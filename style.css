@@ -66,7 +66,7 @@ body {
   border-radius: 2px;
 }
 .hero-container {
-  background: url(https://sabirshaikh44.github.io/Fitness_website/img/herob1.jfif) no-repeat;
+  background: url(/Fitness_website/img/herob1.jfif) no-repeat;
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -157,7 +157,7 @@ body {
   font-weight: 300;
 }
 .services_container {
-  background: url(https://sabirshaikh44.github.io/Fitness_website/img/women-with_dumbles.jfif) no-repeat;
+  background: url(/Fitness_website/img/women-with_dumbles.jfif) no-repeat;
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -436,7 +436,7 @@ body {
 }
 .offer_container {
   min-height: fit-content;
-  background: url(https://sabirshaikh44.github.io/Fitness_website/img/offer_section_bg02.png) no-repeat;
+  background: url(/Fitness_website/img/offer_section_bg02.png) no-repeat;
   background-size: cover;
   background-position: bottom;
   color: white;
@@ -620,7 +620,7 @@ textarea {
   color: #ff1313;
 }
 footer{
-  background: url(https://sabirshaikh44.github.io/Fitness_website/img/blog1.png);
+  background: url(/Fitness_website/img/blog1.png);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
