@@ -12,7 +12,7 @@
   box-sizing: border-box;
 }
 body {
-  background: cadetblue;
+  background: black;
 }
 .navbar {
   display: flex;
