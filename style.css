@@ -157,7 +157,7 @@ body {
   font-weight: 300;
 }
 .services_container {
-  background: url(/Fitness_website/img/women-with_dumbles.jfif) no-repeat 100%;
+  background: url(/Fitness_website/img/women-with_dumbles.jfif) no-repeat;
   background-size: cover;
   min-height: 100vh;
   position: relative;
