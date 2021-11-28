@@ -73,14 +73,6 @@ body {
   height: 100vh;
   position: relative;
 }
-/* .hero-container::after,.hero-container::before{
-  position: absolute;
-  content: "";
-  width: 100%;
-  height: 100vh;
-  background: rgba(0, 0, 0, 0.445);
-  background-size: cover;
-} */
 .hero_content {
   color: white;
   width: 100%;
@@ -165,7 +157,7 @@ body {
   font-weight: 300;
 }
 .services_container {
-  background: url(/img/women-with_dumbles.jfif) no-repeat;
+  background: url(/Fitness_website/img/women-with_dumbles.jfif) no-repeat;
   background-size: cover;
   min-height: 100vh;
   position: relative;
